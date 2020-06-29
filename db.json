@@ -1,11 +1,18 @@
 {
   "logs": [
     {
-      "message": "Format HD",
+      "id": 1,
+      "message": "Format anything",
       "attention": false,
+      "tech": "John Doe",
+      "date": "2020-06-29T07:54:55.540Z"
+    },
+    {
+      "id": 2,
+      "message": "klklklfd",
+      "attention": true,
       "tech": "Sam Smith",
-      "data": "2020-06-28T10:38:34.255Z",
-      "id": 1
+      "date": "2020-06-29T07:56:41.783Z"
     }
   ],
   "techs": [
