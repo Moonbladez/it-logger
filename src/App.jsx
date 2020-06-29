@@ -5,8 +5,8 @@ import { AddBtn } from "./components/layout/AddBtn";
 import Logs from "./components/logs/Logs";
 import AddLogModal from "./components/logs/AddLogModal";
 import EditLogModal from "./components/logs/EditLogModal";
-import { AddTechModal } from "./components/techs/AddTechModal";
-import { TechListModal } from "./components/techs/TechListModal";
+import AddTechModal from "./components/techs/AddTechModal";
+import TechListModal from "./components/techs/TechListModal";
 
 import { Provider } from "react-redux";
 import { store } from "./store";

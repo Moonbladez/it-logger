@@ -2,17 +2,10 @@
   "logs": [
     {
       "id": 1,
-      "message": "Format anything",
+      "message": "Format anythingghghg",
       "attention": false,
-      "tech": "John Doe",
-      "date": "2020-06-29T07:54:55.540Z"
-    },
-    {
-      "id": 2,
-      "message": "klklklfd",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2020-06-29T07:56:41.783Z"
+      "tech": "Natasha  Romanov",
+      "date": "2020-06-29T19:25:29.296Z"
     }
   ],
   "techs": [
@@ -20,21 +13,6 @@
       "id": 1,
       "firstName": "John",
       "lastName": "Doe"
-    },
-    {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "firstName": "Steve",
-      "lastName": "Rogers",
-      "id": 4
-    },
-    {
-      "firstName": "Steve",
-      "lastName": "Rogers",
-      "id": 6
     }
   ]
 }
